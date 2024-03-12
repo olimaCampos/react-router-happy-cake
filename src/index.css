@@ -1,0 +1,15 @@
+a {
+  font-weight: 500;
+  color: white;
+  text-decoration: inherit;
+  margin: 10px;
+}
+a:hover {
+  color: black;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
